@@ -2,7 +2,7 @@
 
 /*
 
-class amstrong
+class Amstrong
 {
 	public static void main(String[]args)
 	{
@@ -34,7 +34,7 @@ class amstrong
 
 
 
-class amstrong
+class Amstrong
 {
 	public static void main(String[]args)
 	{
