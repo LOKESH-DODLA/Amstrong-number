@@ -21,7 +21,7 @@ Explanation :
                         
      
      
- This is wrote in Java and C Programming 
+ This is wrote in Java and C Programming useing for() and While() Loop . 
  
  
  ENJOY Keep Smiling ...................
